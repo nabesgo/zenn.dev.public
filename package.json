@@ -1,0 +1,23 @@
+{
+  "name": "zenn.dev.public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabesgo/zenn.dev.public.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabesgo/zenn.dev.public/issues"
+  },
+  "homepage": "https://github.com/nabesgo/zenn.dev.public#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.72"
+  }
+}
