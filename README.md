@@ -11,7 +11,7 @@
 ```
   npx zenn new:article
   # or
-  npx zenn new:article --slug myarticle.md --title titletext --type idea --emoji ✨
+  npx zenn new:article --slug myarticle --title titletext --type idea --emoji ✨
 ```
 
 ### preview
